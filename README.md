@@ -1,2 +1,2 @@
 ## Daikishi Path Variables
-Using controllers, mappers and path variables in Java Spring
+Built in Java, using controllers, mappers and path variables in Spring
